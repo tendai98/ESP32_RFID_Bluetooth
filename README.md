@@ -1,6 +1,7 @@
 # ESP32 Bluetooth RFID Reader
 
 This Arduino project utilizes an ESP32 microcontroller and an MFRC522 RFID module to create a Bluetooth RFID reader. It employs the ESP32's Bluetooth capabilities and the RFCOMM protocol for data transmission and retrieval between devices.
+This project not only can read data from RFID cards or fobs but can also program them
 
 ## Project Structure
 
